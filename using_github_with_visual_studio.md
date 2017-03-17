@@ -1,3 +1,12 @@
+Using GitHub with Visual Studio
+=====================================
+
+
+Reference
+------------------------------
+- [Step by Step working with GitHub Repository and Visual Studio 2015](http://www.infragistics.com/community/blogs/dhananjay_kumar/archive/2016/07/21/step-by-step-working-with-github-repository-and-visual-studio-2015.aspx)
+- [Using GitHub with Visual Studio 2012 / 2013 / 2015](https://www.youtube.com/watch?v=Ijfypw7qJgg)
+
 while pusing the code to GitHub, I get this error message below
 ```
 Error encountered while pushing to the remote repository: Git failed with a fatal error.
