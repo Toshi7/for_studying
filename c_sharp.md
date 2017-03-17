@@ -8,7 +8,13 @@ C# (programming language) is multi-paradigm programming language encompassing st
 Reference [C Sharp (programming language)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
 ## List of userful methos for C#
-
+#### Writes the text representation of the specified value or values to the standard output stream.
+```
+Console.Write()
+```#### Writes the current line terminator to the standard output stream.
+```
+WriteLine()
+```
 #### Converts string into an integer
 ```
 int result = int.Parse(Console.ReadLine());
