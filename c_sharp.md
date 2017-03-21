@@ -28,6 +28,13 @@ String.Format(String, Object, Object, Object)
 ```
 Console.Clear()
 ```
+#### String format
+```
+Console.WriteLine(String.Format("{0:N}"), 1234567)  // 1,234,567,890.00 
+Console.WriteLine(String.Format(("Percentage: {0:P}", .123))  //12.30 %
+Console.WriteLine(String.Format("Phone Number {0:(###) ###-####}", 123456789012)  //Phone Number: (12345)678-9012
+```
+[More Standard Numeric Format Strings](https://msdn.microsoft.com/en-us/library/dwhawy9k(v=vs.110).aspx)
 
 ## List of the websites to learn C#
 https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169?l=l5iWxYQIC_1306218949
