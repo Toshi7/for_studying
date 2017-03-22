@@ -17,7 +17,7 @@ Reference [C Sharp (programming language)](https://en.wikipedia.org/wiki/C_Sharp
 ## [C# Fundamentals for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169?l=l5iWxYQIC_1306218949)
 This introduction of C# is provided on MVA.
 This video is really good for people who just started learning C#.
-However, what the issue in this video is this video explain some stuff so fast and briefly somtimes.
+However, what the issue in this video is this video explain some stuff so fast and briefly somtimes.(e.g. using, System, and namespace)
 To oversome it, I recommend this documentation below  
 [Getting Started with C#](https://www.microsoft.com/net/tutorials/csharp/getting-started/hello-world) from [.NET Documentation](https://docs.microsoft.com/en-us/dotnet/)
 
