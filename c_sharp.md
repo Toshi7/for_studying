@@ -13,6 +13,19 @@ What is C# ?
 C# (programming language) is multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines. It was developed by Microsoft within its .  
 Reference [C Sharp (programming language)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
+
+## [C# Fundamentals for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169?l=l5iWxYQIC_1306218949)
+This introduction of C# is provided on MVA.
+This video is really good for people who just started learning C#.
+However, what the issue in this video is this video explain some stuff so fast and briefly somtimes.
+To oversome it, I recommend this documentation below  
+[Getting Started with C#](https://www.microsoft.com/net/tutorials/csharp/getting-started/hello-world) from [.NET Documentation](https://docs.microsoft.com/en-us/dotnet/)
+
+
+
+
+
+
 ## List of userful methos for C#
 #### Writes the text representation of the specified value or values to the standard output stream.
 ```
