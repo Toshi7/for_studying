@@ -1,6 +1,12 @@
 C# (C Sharp)
 =====================================
 
+## Goals
+
+- Take the course from [Microsoft Virtual Academy](https://mva.microsoft.com/) to learn .Net Core and check if MVA covers everything for people who are going to develop using C# or not.
+If not, then write down which part it doesn't cover.
+- Also, check another websites to learn C# and compare which one is better.
+
 What is C# ?
 -------------------------------------
 
