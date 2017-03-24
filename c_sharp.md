@@ -20,7 +20,7 @@ This video is really good for people who just start learning C#.
 However, what the issue in this video is this video explain some stuff so fast and briefly somtimes.(e.g. using, System, and namespace)
 To oversome it, I recommend this documentation below  
 [Getting Started with C#](https://www.microsoft.com/net/tutorials/csharp/getting-started/hello-world) from [.NET Documentation](https://docs.microsoft.com/en-us/dotnet/)
-
+Also, it doesn't explain how to write [XML Documentation Comments (C# Programming Guide)](https://msdn.microsoft.com/en-us/library/b2s063f7.aspx) which is like JavaDoc
 
 
 
