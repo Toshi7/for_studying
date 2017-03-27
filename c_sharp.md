@@ -22,9 +22,18 @@ To oversome it, I recommend this documentation below
 [Getting Started with C#](https://www.microsoft.com/net/tutorials/csharp/getting-started/hello-world) from [.NET Documentation](https://docs.microsoft.com/en-us/dotnet/)
 Also, it doesn't explain how to write [XML Documentation Comments (C# Programming Guide)](https://msdn.microsoft.com/en-us/library/b2s063f7.aspx) which is like JavaDoc
 
+.NET Core is a subset of .NET Framework and not all types and methods are available. And not all methods are really needed:
+- ToShortDateString() is the same as ToString("d"), the rest of ToXString have similar equivalents
+- TOADate() is unlikely to be of much use cross platform as OLE Automation Date is a Windows specific format.
 
-
-
+For example, in this video, he uses C# with .NET Framework 
+In 13 | Working with Dates and Times, When he run Console.WriteLine(myValue.ToShortDateString());,
+he gets following error:  
+`
+'DateTime' does not contain a definition for 'ToShortDateString' and no extension method 'ToShortDateString' accepting a first argument of type 'DateTime' could be found (are you missing a using directive or an assembly reference?)
+`  
+but when I changed it to Console.WriteLine(myValue.ToString("d")), 
+I got same output he got.
 
 ## List of userful methos for C#
 #### Writes the text representation of the specified value or values to the standard output stream.
