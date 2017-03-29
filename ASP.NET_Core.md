@@ -10,5 +10,5 @@ Reference [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/)
 
 ## List of the websites for learning .Net Core
 - [Introduction to ASP.NET Core with Visual Studio 2017](https://mva.microsoft.com/en-US/training-courses/introduction-to-asp-net-core-1-0-16841?l=JWZaodE6C_5706218965)
-
-https://docs.microsoft.com/en-us/aspnet/core/choose-aspnet-framework
+- [Choose between ASP.NET and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/choose-aspnet-framework)
+- [ASP.NET Documentation](https://docs.microsoft.com/ja-jp/aspnet/)
