@@ -35,7 +35,7 @@ he gets following error:
 but when I changed it to Console.WriteLine(myValue.ToString("d")), 
 I got same output he got.
 
-## List of userful methos for C#
+## List of useful methos for C#
 #### Writes the text representation of the specified value or values to the standard output stream.
 ```
 Console.Write()
@@ -43,6 +43,10 @@ Console.Write()
 #### Writes the current line terminator to the standard output stream.
 ```
 WriteLine()
+```
+#### Reads the next line of characters from the standard input stream.
+```
+Console.ReadLine()
 ```
 #### Converts string into an integer
 ```
@@ -65,6 +69,6 @@ Console.WriteLine(String.Format("Phone Number {0:(###) ###-####}", 123456789012)
 [More Standard Numeric Format Strings](https://msdn.microsoft.com/en-us/library/dwhawy9k(v=vs.110).aspx)
 
 ## List of the websites to learn C#
-https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169?l=l5iWxYQIC_1306218949
-https://www.microsoft.com/net/tutorials/csharp/getting-started
+https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169?l=l5iWxYQIC_1306218949  
+https://www.microsoft.com/net/tutorials/csharp/getting-started  
 https://docs.microsoft.com/en-us/
