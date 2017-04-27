@@ -3,9 +3,9 @@
 Open up terminal by pressing `Ctrl + Backtick` on vscode.
 When you execute following command in the terminal
 
-``
+```
 dotnet run 
-``
+```
 
 you might face the proxy issue with this error
 
