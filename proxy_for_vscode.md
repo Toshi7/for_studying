@@ -9,9 +9,9 @@ dotnet run
 
 you might face the proxy issue with this error
 
-``
+```
 Downloading package 'OmniSharp (.NET 4.6 / x64)' Failed at stage: downloadPackages Error: connect ETIMEDOUT 13.88.145.72:443
-``
+```
 
 To fix it, press `Ctrl + Shift + P` to bring up the Command Palette then start typing "config" to filter and display the Configure Language Specific
 Specific Setting command and open the settings.json file.
