@@ -1,4 +1,4 @@
-# Proxy for vscode
+# Proxy issue for vscode
 
 Open up terminal by pressing `Ctrl + Backtick` on vscode.
 When you execute following command in the terminal
