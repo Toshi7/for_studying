@@ -11,6 +11,7 @@ Reference [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/)
 ## Web Servers  
 - IIS Express 
   - IIS Express is the default web server for web application projects in Visual Studio 2012 and Visual Studio 2013, and it is recommended for both web application projects and web site projects.
+  - IIS is it's own world that sists in front of ASP.NET Core and kestrel.
 - Local IIS
   - Use IIS when you want to test your web application using the server environment that is closest to what the live site will run under, and it is practical for you to install and work with IIS on your development computer. For more information, see Disadvantages of Using IIS as a Development Server with Visual Studio later in this topic.
 You can use IIS with web application projects, but not with web site projects.
