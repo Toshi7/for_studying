@@ -18,10 +18,15 @@ You can use IIS with web application projects, but not with web site projects.
 - External Host
   - You can specify the URL of an external host that you will use for testing. For more information, see Advantages of using an External Host as a Development Server with Visual Studio later in this topic.
 - Custom Web Server
-  - Visual Studio 2013 adds support for specifying custom Web servers in your projects; this functionality enables developers to define the environment for testing their Web applications.
-
+  - Visual Studio 2013 adds support for specifying custom Web servers in your projects; this functionality enables developers to define the environment for testing their Web applications.  
 
 Reference - [Web Servers in Visual Studio for ASP.NET Web Projects](https://msdn.microsoft.com/en-us/library/58wxa9w5(v=vs.120).aspx)
+
+## Launching the app
+Launching the app with Ctrl+F5 (non-debug mode) allows you to make code changes, save the file, refresh the browser, and see the code changes. Many developers prefer to use non-debug mode to quickly launch the app and view changes.  
+
+Reference - [Getting started with ASP.NET Core MVC and Visual Studio](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc)
+
 
 
 ## List of the websites for learning .Net Core
