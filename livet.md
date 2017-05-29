@@ -20,8 +20,10 @@ Model.
 
 
 ## List of the websites for learning .Net Core
+- [Livet](http://ugaya40.hateblo.jp/entry/Livet)
 - [Livet](https://github.com/ugaya40/Livet)
 - [Livet2](https://github.com/ugaya40/Livet2)
 - [WPF MVVM Infrastructure Livet](http://www.slideboom.com/presentations/621216/WPF-MVVM-Infrastructure-Livet)
 - [塹壕よりLivetとMVVM](https://www.slideshare.net/Posaune/livetmvvm)
 - [MVVM tutorial](https://www.tutorialspoint.com/mvvm/mvvm_tutorial.pdf)
+- [MVVM](http://neutoria.blogspot.jp/2011/10/mvvm.html)
