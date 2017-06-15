@@ -13,3 +13,4 @@ Reference [Domain-driven design](https://en.wikipedia.org/wiki/Domain-driven_des
 
 ## List of the websites for learning DDD
 - [Our Approach The best people and the best tools for the job](http://newmedialabs.co.za/approach)
+- [Domain Language](http://domainlanguage.com/)
